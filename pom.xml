@@ -4,7 +4,7 @@
   <groupId>product.lab.codehub.com</groupId>
   <artifactId>helloPeople</artifactId>
   <packaging>jar</packaging>
-  <version>1.1-SNAPSHOT</version>
+  <version>1.1</version>
   <name>helloPeople</name>
   <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
